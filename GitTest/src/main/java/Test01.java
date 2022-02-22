@@ -1,8 +1,9 @@
 
 public class Test01 {
+	
 	public static void main(String[] args) {
-		System.out.println("1¹øÂ° Ä¿¹Ô");
-		System.out.println("2¹øÂ° Ä¿¹Ô");
+		System.out.println("1ë²ˆì§¸ ì»¤ë°‹");
+		System.out.println("2ë²ˆì§¸ ì»¤ë°‹");
 	}
 
 }
